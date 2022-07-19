@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about cybersecurity.
 - 🌱 I’m currently learning Python, JavaScript and Swift.
 - :pencil2: I have learnt Java and C++.
-- :green_heart: I love to hike and watch Netflix in my free time.
+- :green_heart: I love to hike and watch Netflix when I am not coding.
 - 📫 How to reach me - Email: sitiphang@gmail.com | Telegram: @XeeDi
 
 <!---
