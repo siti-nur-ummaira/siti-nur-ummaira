@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siti-nur-ummaira
 - 👀 I’m interested in learning about cybersecurity.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, JavaScript and Swift.
+- :green_heart: I love to hike and watch Netflix in my free time.
 - 📫 How to reach me - Email: sitiphang@gmail.com | Telegram: @XeeDi
 
 <!---
